@@ -1,9 +1,6 @@
 # Gaussian Color Model for Ball Detection
 
-**Course:** Introduction to Robotics (CSE543)  
-**Semester:** Spring 2023  
-**Institution:** North South University  
-**Department:** Electrical and Computer Engineering  
+
 
 ---
 
@@ -143,7 +140,7 @@ The learned Gaussian model successfully segments the ball from background pixels
 
 ## Authors
 
-- **Sazzad Hossain** — ID: 2135184050  
-- **Abrar Hossain** — ID: 2315121650  
+- **Sazzad Hossain** 
+- **Abrar Hossain** 
 
 **Instructor:** Dr. Tahsina Farah Sanam
