@@ -30,7 +30,7 @@ mask= zeros(mrows,mcols);
 prob_den=[];
 for i=1:mrows
     for j=1:mcols
-        prob_den(i,j)=mvnpdf(double([I(i,j,1),I(i,j,2),I(i,j,3)]),mu,sigma);
+        prob_den(i,j)=mvnpdf(double([I(i,j,1),I(i,j,2),I(i,j,3)]),mu,sig);
         if prob_den(i,j)>thre
             mask(i,j)=1;
         end
